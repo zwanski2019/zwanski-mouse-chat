@@ -1,0 +1,30 @@
+plaintext
+نسخ الكود
+mouse-code-chat/
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── models.py
+│   │   ├── routes.py
+│   │   └── ...
+│   ├── tests/
+│   │   ├── test_models.py
+│   │   ├── test_routes.py
+│   │   └── ...
+│   ├── .env
+│   ├── requirements.txt
+│   └── run.py
+├── frontend/
+│   ├── web/
+│   │   ├── public/
+│   │   ├── src/
+│   │   ├── package.json
+│   │   └── ...
+│   ├── mobile/
+│   │   ├── android/
+│   │   ├── ios/
+│   │   ├── src/
+│   │   ├── package.json
+│   │   └── ...
+├── README.md
+└── .gitignore
