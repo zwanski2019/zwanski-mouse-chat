@@ -1,0 +1,6 @@
+plaintext
+نسخ الكود
+Flask
+Flask-SocketIO
+Flask-SQLAlchemy
+python-dotenv
